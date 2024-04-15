@@ -1,5 +1,6 @@
-# My projects aren't here!
+# Most of my projects aren't here!
 
-You can find them at <https://git.int21h.xyz>.
+I use Sourcehut for most of everything.
+I am [~cmcevoy](https://sr.ht/~cmcevoy).
 
-This account remains in case I ever need it.
+This account remains to host mirrors of my major projects and in case whenever I need it.
